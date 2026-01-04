@@ -1,0 +1,6 @@
+# OTA/repo/.gitattributes
+
+*.json text eol=lf
+*.apk binary
+*.txt text eol=lf
+*.md text eol=lf
