@@ -1,0 +1,14 @@
+{
+  "updateLog": {
+    "ru": [
+      "Исправлены ошибки",
+      "Оптимизирована работа приложения",
+      "Добавлены новые функции"
+    ],
+    "eng": [
+      "Bugs fixed",
+      "Application performance optimized",
+      "New features added"
+    ]
+  }
+}
